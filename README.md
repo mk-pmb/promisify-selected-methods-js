@@ -48,7 +48,7 @@ will be ignored.
 Usage
 -----
 
-from [test/usage.js](test/usage.js):
+from [test/usage.mjs](test/usage.mjs):
 
 <!--#include file="test/usage.mjs" transform="mjsUsageDemo1802" -->
 <!--#verbatim lncnt="17" -->

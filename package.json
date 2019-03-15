@@ -1,6 +1,6 @@
 { "name": "promisify-selected-methods",
   "description": "Given an object with methods and a list of method names, return a new object with promisified bound versions of those methods.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "methods",
     "promisify"
