@@ -1,0 +1,38 @@
+{ "name": "promisify-selected-methods",
+  "description": "Given an object with methods and a list of method names, return a new object with promisified bound versions of those methods.",
+  "version": "0.1.0",
+  "keywords": [
+    "methods",
+    "promisify"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/promisify-selected-methods-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/promisify-selected-methods-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/promisify-selected-methods-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+  "main": "psm.js",
+  "scripts": { "test": "nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+    "is-fn": "^2.0.0",
+    "pify": "^4.0.1"
+  },
+  "devDependencies": {
+    "absdir": "^1.0.6",
+    "nodemjs": "^0.1.7",
+    "p-fatal": "^0.1.1",
+    "p-tape": "^4.0.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
